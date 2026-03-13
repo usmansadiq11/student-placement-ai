@@ -1,0 +1,24 @@
+{
+  "name": "student-placement-prediction-system",
+  "version": "1.0.0",
+  "description": "AI Student Placement Prediction System",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"cd backend && uvicorn main:app --reload\" \"cd frontend && npm run dev\"",
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && uvicorn main:app --reload"
+  },
+  "keywords": [
+    "machine-learning",
+    "placement-prediction",
+    "fastapi",
+    "react",
+    "ml-project"
+  ],
+  "author": "Usman Sadiq",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
