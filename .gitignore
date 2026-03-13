@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*

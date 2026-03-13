@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Placement Prediction System
 
 ## Overview
@@ -65,3 +66,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+# student-placement-ai
+>>>>>>> 8d8ab790acae1e9214f9716f56517f94b460c1e7
